@@ -1,0 +1,6 @@
+{
+    "nombre":"apiRest",
+    "configDB":{
+        "host":"hola"
+    }
+}
